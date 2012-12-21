@@ -1,0 +1,10 @@
+/shared
+/wp/.htaccess
+/env_local
+/env_playground
+/env_production
+/sql-dump-*.sql
+/db-sync
+/wp/wp-content/upgrade/
+/wp/wp-content/uploads
+.DS_Store
