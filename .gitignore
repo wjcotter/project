@@ -7,4 +7,5 @@
 /db-sync
 /wp/wp-content/upgrade/
 /wp/wp-content/uploads
+/wp/wp-config-local.php
 .DS_Store
